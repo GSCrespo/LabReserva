@@ -1,0 +1,10 @@
+# ===== Binários e build (penalidade de -5 se versionados) =====
+*.class
+*.jar
+*.war
+*.ear
+build/
+bin/
+target/
+out/
+!src/main/webapp/WEB-INF/lib/.gitkeep
